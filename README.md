@@ -1,6 +1,8 @@
 # shuffler
 
-Distributed `shuf` (http://linux.die.net/man/1/shuf). Far from optimal, but effective enough for most cases.
+Distributed `shuf` (http://linux.die.net/man/1/shuf). 
+
+Far from optimal, but effective enough for most cases.
 
 ## Building
 
